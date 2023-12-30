@@ -1,17 +1,19 @@
 @echo off
 
 echo structs.exe...
-.\structs.exe
+.\bin\structs.exe
 echo.
 
 echo helloworld.exe...
-.\helloworld.exe
+.\bin\helloworld.exe
 echo.
 
 echo functions.exe...
-.\functions.exe
+.\bin\functions.exe
 echo.
 
 echo datatypes.exe...
-.\datatypes.exe
+.\bin\datatypes.exe
 echo.
+
+pause
