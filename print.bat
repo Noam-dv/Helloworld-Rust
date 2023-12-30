@@ -11,3 +11,7 @@ echo.
 echo functions.exe...
 .\functions.exe
 echo.
+
+echo datatypes.exe...
+.\datatypes.exe
+echo.
